@@ -45,6 +45,12 @@ cargo build --release
 # Binary at target/release/hashcrack
 ```
 
+## Demo
+
+<div align="center">
+  <img src="assets/demo.svg" alt="hashcrack demo" />
+</div>
+
 ## Quick Start
 
 ```bash
